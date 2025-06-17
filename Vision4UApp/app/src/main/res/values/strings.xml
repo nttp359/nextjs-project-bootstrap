@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vision4U</string>
+    
+    <!-- Bottom Navigation -->
+    <string name="nav_home">Vision4U</string>
+    <string name="nav_map">Bản đồ &amp; Vị trí</string>
+    <string name="nav_messages">Tin nhắn thoại</string>
+    <string name="nav_settings">Cài đặt</string>
+    
+    <!-- Home Screen -->
+    <string name="device_name">Vision4U Smart Glasses</string>
+    <string name="connection_status">Trạng thái kết nối</string>
+    <string name="disconnected">Mất kết nối</string>
+    <string name="last_connected">Lần cuối kết nối</string>
+    <string name="undefined">Không xác định</string>
+    <string name="heart_rate">Nhịp tim</string>
+    <string name="blood_oxygen">Oxy máu</string>
+    <string name="call_me">Gọi điện cho tôi</string>
+    <string name="send_location">Gửi vị trí cho tôi</string>
+    
+    <!-- Map Screen -->
+    <string name="current_location">Vị trí hiện tại</string>
+    <string name="no_location_data">Không có dữ liệu vị trí</string>
+    <string name="tap_map">Bấm vào bản đồ để tuỳ chỉnh vị trí</string>
+    <string name="movement_history">Lịch sử di chuyển</string>
+    <string name="no_movement_history">Chưa có lịch sử di chuyển</string>
+    <string name="refresh">Làm mới</string>
+    <string name="share">Chia sẻ</string>
+    
+    <!-- Messages Screen -->
+    <string name="send_message">Gửi tin nhắn</string>
+    <string name="tap_to_record">Bấm để ghi âm</string>
+    <string name="quick_messages">Tin nhắn nhanh</string>
+    <string name="are_you_hungry">Bạn có đói không?</string>
+    <string name="come_home">Về nhà ngay</string>
+    <string name="call_me_now">Gọi điện cho tôi</string>
+    <string name="love_you">Yêu bạn</string>
+    <string name="message_history">Lịch sử tin nhắn</string>
+    <string name="no_messages">Chưa có tin nhắn nào</string>
+    
+    <!-- Settings Screen -->
+    <string name="device_info">Thông tin thiết bị</string>
+    <string name="notifications">Thông báo</string>
+    <string name="health_alerts">Cảnh báo sức khoẻ</string>
+    <string name="health_alerts_desc">Nhận thông báo khi có bất thường về sức khoẻ</string>
+    <string name="location_alerts">Cảnh báo vị trí</string>
+    <string name="location_alerts_desc">Thông báo khi ra khỏi vùng an toàn</string>
+    <string name="continuous_tracking">Theo dõi vị trí liên tục</string>
+    <string name="tracking_desc">Cập nhật vị trí mỗi 5 phút</string>
+    <string name="emergency_contacts">Liên hệ khẩn cấp</string>
+    <string name="primary_phone">Số điện thoại chính</string>
+    <string name="secondary_phone">Số điện thoại phụ</string>
+    <string name="edit_contacts">Chỉnh sửa danh bạ</string>
+    <string name="support">Hỗ trợ</string>
+    <string name="user_guide">Hướng dẫn sử dụng</string>
+    <string name="faq">Câu hỏi thường gặp</string>
+    <string name="contact_support">Liên hệ hỗ trợ</string>
+    <string name="app_version">Phiên bản 1.0.0</string>
+</resources>
